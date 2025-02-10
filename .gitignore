@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iws
+
+# Java build output
+*.class
+
+# Visual Studio / MSVC
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.slnLaunch.user
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.tlog/
+*.exe
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
